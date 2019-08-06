@@ -9,7 +9,8 @@ class MainPresenter : MainContract.Presenter {
         this.mainView = view
     }
 
-    override fun outoutView() {
+    override fun outputView() {
         this.mainView = null
     }
+
 }

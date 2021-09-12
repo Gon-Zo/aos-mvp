@@ -1,4 +1,4 @@
-## 🚨 Project Contents
+## Project Contents
 
 ### MVP (Model-View-Presenter)
 > 사용자 인터페이스는 MVC (Model-View-Controller) 패턴에서 파생 된 MVP (Model-View-Presenter)라는 아키텍처 패턴을 따릅니다. </br>
